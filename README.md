@@ -1,6 +1,6 @@
 # 📊 OmniRetail: Customer Satisfaction Analysis Dashboard 
 
-![Customer Dashboard](./assets/overview-dashboard.jpg)
+![Customer Dashboard](./assets/customer-satisfaction-overview.jpg)
 
 ## 📌 Project Overview
 
